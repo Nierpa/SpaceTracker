@@ -78,5 +78,3 @@ pip install -r requirements.txt
 TLE files are stored in:
 data/raw/
 You can also fetch live data directly from the app.
-
->>>>>>> d4ce27f (Initial commit - SpaceTracker: satellite collision prediction with ML and Streamlit dashboard)
