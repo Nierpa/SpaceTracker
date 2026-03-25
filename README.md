@@ -83,7 +83,7 @@ You can also fetch live data directly from the app.
 
 ## 🌍 3D Visualization
 
-![3D View](assets/Vue3D.png)
+![3D View](assets/Visu3D.png)
 
 ## ☄️ Risk Analysis
 
